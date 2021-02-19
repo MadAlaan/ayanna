@@ -1,0 +1,44 @@
+body {
+    background-color: pink;
+}
+p {
+    font-size: 24px;
+    font-family: cursive;
+}
+h1 {
+    font-size: 40px;
+    font-family: cursive;
+    text-align: center;
+}
+a {
+    font-size: 24px;
+    color: black;
+    font-family: cursive;
+    text-align: left;
+    display: inline-block;
+    text-decoration:none;
+    border:3px solid #33FFD7;
+    padding: 10px 40px 10px 40px;
+    border-radius: 4px;
+    transition:background .6s,color .6s;
+    
+}
+a:hover{
+    background-color: beige;
+    color: pink
+}
+img {
+    display: block;
+    margin: auto;
+    border-radius: 100px;
+}
+div {
+    vertical-align: middle;
+    text-align: center;
+    padding-top: 3%;
+}
+div {
+    border: 20px blanchedalmond;
+    margin: 0%;
+    padding: 40px 40px 40px 40px;
+}
