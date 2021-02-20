@@ -1,0 +1,55 @@
+body{
+    background: url(fondo.jpg);
+    background-size: 125%;
+}
+img {
+    display: block;
+    margin: auto;
+    border-radius: 50px;
+}
+div{
+   border: black;
+}
+h1{
+    text-align: center;
+}
+a {
+    font-size: 24px;
+    color: black;
+    font-family: cursive;
+    text-align: left;
+    text-decoration:none;
+    border:3px solid #33FFD7;
+    padding: 10px 40px 10px 40px;
+    border-radius: 4px;
+    transition:background .6s,color .6s;
+    display: inline-block;
+}
+a:hover{
+    background-color: pink;
+    color: black;
+    display: inline-block;
+}
+div {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    padding-top: 3%;
+}
+div {
+    border: 20px blanchedalmond;
+    margin: 0%;
+    padding: 40px 40px 40px 40px;
+}
+h1 {
+    font-family: cursive;
+}
+h2 {
+    font-family: cursive;
+    text-align: center;
+}
+p{
+    font-family: cursive;
+    text-decoration: solid;
+    text-align-last: center;
+}
